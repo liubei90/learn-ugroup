@@ -1,0 +1,18 @@
+# 实验临时产物（不提交任何运行输出）
+labs/*/.tmp/
+labs/*/demo/
+.tmp-t*/
+.probe/
+.probe-*/
+*.o
+*.out
+*.log
+.verify*.log
+
+# 内部编写资料（不随教程发布）
+_内部/
+
+# 编辑器/系统垃圾
+.DS_Store
+*.swp
+*~
